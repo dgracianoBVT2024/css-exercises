@@ -5,10 +5,10 @@ body {
 
 .one {
   background: pink;
-  border: 3px solid blue;
+  border: 5px solid blue;
   /* CHANGE ME */
-  padding: 0px;
-  margin: 0px;
+  padding: 35px;
+  margin: 12px;
 }
 
 .two {
@@ -20,9 +20,10 @@ body {
 
 .three {
   background: peachpuff;
-  border: 3px solid brown;
+  border: 5px solid brown;
   width: 200px;
   /* CHANGE ME */
-  padding: 0px;
-  margin-left: 0px;
+  padding: 40px;
+  margin-left: auto;
+  margin-top: 55px;
 }
