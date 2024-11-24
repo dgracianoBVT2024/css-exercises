@@ -1,27 +1,31 @@
 body {
   background: #eee;
   font-family: sans-serif;
-}
+  /* border: 20px solid; */
+  margin: auto;
 
-.card {
-  width: 400px;
-  background: #fff;
-  margin: 16px auto;
-}
+  .card {
+    width: 400px;
+    background: #fff;
+    margin: 16px auto;
+  }
 
-.title {
-  background: #e3f4ff;
-}
+  .title {
+    background: #e3f4ff;
+    border: 100px;
+  }
 
-.content {
-  background: #e3f4ff;
-}
+  .content {
+    background: #e3f4ff;
+  }
 
-.button-container {
-  background: #e3f4ff;
-}
+  .button-container {
+    background: #e3f4ff;
+  }
 
-button {
-  background: white;
-  border: 1px solid #eee;
-}
+  button {
+    background: white;
+    border: 1px solid #eee;
+  }
+
+  testing 8:27am
