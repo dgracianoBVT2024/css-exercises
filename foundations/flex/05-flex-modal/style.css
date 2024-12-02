@@ -41,8 +41,6 @@ body {
 }
 
 
-
-
 .header {
   display: flex;
   font-size: 18px;
@@ -50,6 +48,7 @@ body {
   margin-bottom: 8px;
   justify-content: space-between;
   align-items: center;
+
 }
 
 .close-button {
